@@ -1,1 +1,3 @@
-# RecuperatorioSegundoParcial-Progamacion2-CasadoSantino
+Casado Santino
+------------------
+![Parcial](UML-RecuSegundoParcial.png)
