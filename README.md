@@ -1,7 +1,7 @@
 <body>
   <h1>🧪 Gestión de Productos Químicos y Ecológicos</h1>
   <p>
-    Este proyecto es una aplicación de escritorio desarrollada en <strong>Java</strong> y <strong>JavaFX</strong>, utilizando <strong>Scene Builder</strong>. Su objetivo principal es la gestión eficiente de inventarios de productos químicos y ecológicos, implementando un CRUD robusto y validaciones de datos.
+Este proyecto es una aplicación de escritorio desarrollada en <strong>Java</strong> y <strong>JavaFX</strong>, utilizando <strong>Scene Builder</strong>. Su objetivo principal es la gestión eficiente de inventarios de productos químicos y ecológicos, implementando un CRUD robusto y    validaciones de datos.
   </p>
 
   <h2>🚀 Características Principales</h2>
